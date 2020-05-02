@@ -1,8 +1,6 @@
 # pyhon_codes
-This are my python_codes
+These are my python codes
 
-This contains exercises while im studying python
+These contains exercises from my pyhton trainings
 
-I will continue to add more simple exercises
 
-if you have request 
